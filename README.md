@@ -20,11 +20,9 @@ Never stop Learning and Coding
 
 ## Technologies Used 
 
-- [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 - [Web API CORE](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0)
 - [ASP .Net Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0)
 - [Vue-JS](https://vuejs.org/)
-- [SAP ABAP ](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-us/abenabap_overview.htm)
 - [Laravel](https://laravel.com/docs/4.2/introduction)
 - [Pentaho](https://www.hitachivantara.com/en-hk/products/data-management-analytics/pentaho-platform/pentaho-data-integration.html)
 - [Docker](https://docs.docker.com/get-started/)
@@ -36,7 +34,7 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
-- Golang
+- Machine Learning
 
 - Kubernates
 
