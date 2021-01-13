@@ -1,28 +1,50 @@
-### Hi there , Am Abdelrahman 👋
 
-<!--
-**abdelrahmanalimohamed/abdelrahmanalimohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <kbd>
+<img src="https://img.pngio.com/zypesters-at-work-solving-complex-video-distribution-problems-as-a-software-engineer-zype-software-engineer-png-600_300.png"></img>
+  </kbd>
+</p>
 
-Here are some ideas to get you started:
+
+
+## Summery and About ME 
 It's Abdelrahman, A Software Engineer with great passion in Computer Science and new technologies
+Never stop Learning and Coding 
 
-- 🔭 I’m currently working on ...
-        .Net Core Web API 
-        ASP .Net Core 
-        PHP Laravel 
-        SAP ABAP with HanaDB
-        MySql Database
-        Vuejs 
-        Docker
-        
-- 🌱 I’m currently learning ... 
-        
-         
-         
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages Used 
+- C# 
+- PHP 
+- SAP ABAP
+- Python
+
+## Technologies Used 
+
+- [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
+- [Web API CORE](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0)
+- [ASP .Net Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0)
+- [Vue-JS](https://vuejs.org/)
+- [SAP ABAP ](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-us/abenabap_overview.htm)
+- [Laravel](https://laravel.com/docs/4.2/introduction)
+- [Pentaho](https://www.hitachivantara.com/en-hk/products/data-management-analytics/pentaho-platform/pentaho-data-integration.html)
+- [Docker](https://docs.docker.com/get-started/)
+
+## Database
+- [MySql](https://dev.mysql.com/doc/refman/8.0/en/)
+- [PostgreSQL](https://www.postgresql.org/docs/12/index.html)
+
+
+## I’m currently learning 
+
+- Connect with LinkedIn to get Summary, Skills, Education and Experience
+
+- Golang
+
+- Kubernates
+
+- Add More Sections
+
+## How to reach me
+- Email : abdelrahmanali.mohamed@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-ali-b24568140/)
+
+
