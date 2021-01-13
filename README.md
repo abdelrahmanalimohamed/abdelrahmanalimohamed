@@ -1,3 +1,4 @@
+# Hello , Am Abdelrahman ⚡️ 
 
 <p align="center">
   <kbd>
@@ -8,7 +9,7 @@
 
 
 ## Summery and About ME 
-It's Abdelrahman, A Software Engineer with great passion in Computer Science and new technologies
+A Software Engineer with great passion in Computer Science and new technologies
 Never stop Learning and Coding 
 
 ## Programming Languages Used 
