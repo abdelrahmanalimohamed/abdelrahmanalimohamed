@@ -36,8 +36,6 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
-- Connect with LinkedIn to get Summary, Skills, Education and Experience
-
 - Golang
 
 - Kubernates
