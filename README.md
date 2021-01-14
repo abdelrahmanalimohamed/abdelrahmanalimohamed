@@ -16,7 +16,7 @@ Never stop Learning and Coding
 - C# 
 - PHP 
 - SAP ABAP
-- Python
+
 
 ## Technologies Used 
 
@@ -30,6 +30,7 @@ Never stop Learning and Coding
 ## Database
 - [MySql](https://dev.mysql.com/doc/refman/8.0/en/)
 - [PostgreSQL](https://www.postgresql.org/docs/12/index.html)
+- [SQL-Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 
 
 ## I’m currently learning 
