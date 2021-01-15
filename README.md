@@ -35,6 +35,10 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
+- GoLang 
+
+-Data Engineering 
+
 - Machine Learning
 
 - Kubernates
