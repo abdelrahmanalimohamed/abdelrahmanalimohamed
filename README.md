@@ -24,7 +24,6 @@ Never stop Learning and Coding
 - [ASP .Net Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0)
 - [Vue-JS](https://vuejs.org/)
 - [Laravel](https://laravel.com/docs/4.2/introduction)
-- [Pentaho](https://www.hitachivantara.com/en-hk/products/data-management-analytics/pentaho-platform/pentaho-data-integration.html)
 - [Docker](https://docs.docker.com/get-started/)
 
 ## Database
