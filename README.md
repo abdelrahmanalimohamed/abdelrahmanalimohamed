@@ -38,7 +38,7 @@ Never stop Learning and Coding
 
 - Machine Learning
 
-- Add More Sections
+- And More Sections
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
