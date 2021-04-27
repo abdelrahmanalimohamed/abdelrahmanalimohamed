@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://img.pngio.com/zypesters-at-work-solving-complex-video-distribution-problems-as-a-software-engineer-zype-software-engineer-png-600_300.png"></img>
+<img src="https://image.freepik.com/free-vector/software-language-programmer-avatar_24877-764.jpg"></img>
   </kbd>
 </p>
 
