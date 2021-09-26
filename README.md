@@ -16,6 +16,7 @@ Never stop Learning and Coding
 - C# 
 - PHP 
 - SAP ABAP
+- Python
 
 
 ## Technologies Used 
