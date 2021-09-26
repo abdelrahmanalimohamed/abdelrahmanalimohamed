@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://image.freepik.com/free-vector/software-language-programmer-avatar_24877-764.jpg"></img>
+<img src="https://www.7pace.com/wp-content/uploads/2020/08/COVER-Authonomy.png"></img>
   </kbd>
 </p>
 
