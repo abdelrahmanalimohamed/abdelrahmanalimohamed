@@ -36,7 +36,7 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
-- Data Engineering 
+-  Big Data
 
 - AWS
 
