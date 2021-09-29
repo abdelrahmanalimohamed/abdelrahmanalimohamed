@@ -38,9 +38,9 @@ Never stop Learning and Coding
 
 - Data Engineering 
 
-- Machine Learning
+- AWS
 
-- And More Sections
+- NoSQl Database
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
