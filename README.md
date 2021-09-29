@@ -36,7 +36,7 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
--  Big Data
+-  Mobile Application Development using Flutter
 
 - AWS
 
