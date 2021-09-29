@@ -25,7 +25,7 @@ Never stop Learning and Coding
 - [ASP .Net Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 - [WINFORMS](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-5.0)
 - [SAP ERP](https://www.sap.com/mena/why-sap.html?campaigncode=CRM-GN21-PPC-NSPBRAB&source=ppc-emea-ao-dg_brand_x_EG_x_x-GOO-x-x&DFA=1&gclid=EAIaIQobChMIs__UjMKR7wIVL4BQBh2FjwEgEAAYAiAAEgJ1gvD_BwE&gclsrc=aw.ds)
-- [Vue-JS](https://vuejs.org/)
+- [Vue.JS](https://vuejs.org/)
 - [Laravel](https://laravel.com/docs/4.2/introduction)
 - [Docker](https://docs.docker.com/get-started/)
 
