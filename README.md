@@ -21,7 +21,10 @@ Never stop Learning and Coding
 
 ## Technologies Used 
 
+
+- [Web API](https://dotnet.microsoft.com/apps/aspnet/apis)
 - [Web API CORE](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0)
+- [ASP .Net MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)
 - [ASP .Net Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 - [WINFORMS](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-5.0)
 - [SAP ERP](https://www.sap.com/mena/why-sap.html?campaigncode=CRM-GN21-PPC-NSPBRAB&source=ppc-emea-ao-dg_brand_x_EG_x_x-GOO-x-x&DFA=1&gclid=EAIaIQobChMIs__UjMKR7wIVL4BQBh2FjwEgEAAYAiAAEgJ1gvD_BwE&gclsrc=aw.ds)
