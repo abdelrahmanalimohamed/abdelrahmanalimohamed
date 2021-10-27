@@ -30,6 +30,7 @@ Never stop Learning and Coding
 - [SAP ERP](https://www.sap.com/mena/why-sap.html?campaigncode=CRM-GN21-PPC-NSPBRAB&source=ppc-emea-ao-dg_brand_x_EG_x_x-GOO-x-x&DFA=1&gclid=EAIaIQobChMIs__UjMKR7wIVL4BQBh2FjwEgEAAYAiAAEgJ1gvD_BwE&gclsrc=aw.ds)
 - [Vue.JS](https://vuejs.org/)
 - [Laravel](https://laravel.com/docs/4.2/introduction)
+- [Laravel API's](https://www.youtube.com/watch?v=Jg5BMeEMBFw&ab_channel=CodeStepByStep)
 - [Docker](https://docs.docker.com/get-started/)
 
 ## Database
@@ -40,10 +41,7 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
--  Mobile Application Development using Flutter
-
-- AWS
-
+- Django FrameWork
 - NoSQl Database
 
 ## How to reach me
