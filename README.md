@@ -41,8 +41,8 @@ Never stop Learning and Coding
 
 ## I’m currently learning 
 
-- Django FrameWork
-- NoSQl Database
+- Database Engineering 
+- Machine Learning
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
