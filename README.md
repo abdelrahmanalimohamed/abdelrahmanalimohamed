@@ -24,6 +24,7 @@ Never stop Learning and Coding
 
 - [Web API](https://dotnet.microsoft.com/apps/aspnet/apis)
 - [Web API CORE](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0)
+- [Entity Framrework Core](https://docs.microsoft.com/en-us/ef/core/)
 - [ASP .Net MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)
 - [ASP .Net Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 - [WINFORMS](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-5.0)
