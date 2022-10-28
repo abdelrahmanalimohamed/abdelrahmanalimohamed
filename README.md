@@ -33,17 +33,19 @@ Never stop Learning and Coding
 - [Laravel](https://laravel.com/docs/4.2/introduction)
 - [Laravel API's](https://www.youtube.com/watch?v=Jg5BMeEMBFw&ab_channel=CodeStepByStep)
 - [Docker](https://docs.docker.com/get-started/)
+- [DevOps](https://www.atlassian.com/devops)
 
 ## Database
 - [MySql](https://dev.mysql.com/doc/refman/8.0/en/)
 - [PostgreSQL](https://www.postgresql.org/docs/12/index.html)
 - [SQL-Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
+- [MongoDB](https://www.mongodb.com/)
 
 
 ## I’m currently learning 
 
-- Database Engineering 
-- Machine Learning
+- Kubernates
+- AWS
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
