@@ -1,4 +1,4 @@
-# Hello , Am Abdelrahman ⚡️ 
+# Hello , Am Abdelrahman Bekheit⚡️ 
 
 <p align="center">
   <kbd>
@@ -6,18 +6,24 @@
   </kbd>
 </p>
 
+## Summery
+**Software Engineer | Full Stack Developer | Backend Specialist**  
+🌍 Based in France | Open to remote opportunities across Europe  
 
+## 🛠️ About Me  
+A passionate software engineer with **5+ years of experience** building scalable and efficient software solutions. My expertise spans a variety of technologies, frameworks, and industries. Whether it's crafting backend systems, developing full-stack solutions, or integrating complex APIs, I always aim to deliver clean, maintainable, and impactful code.  
 
-## Summery and About ME 
-A Software Engineer with great passion in Computer Science and new technologies
-Never stop Learning and Coding 
+🔹 **Current Role**: Software Engineer at [SUPERHOG UK](https://www.superhog.com), specializing in RESTful APIs, microservices, containerization (Docker), and system monitoring.  
+🔹 **Career Goal**: To contribute to innovative projects in dynamic industries like **big data** and **distributed systems** while continuously learning and growing.
 
-## Programming Languages Used 
-- C# 
-
+## 🌟 Key Highlights 
+- 🏗️ Applied **Domain-Driven Design (DDD)** principles in projects like school systems using .NET Core.  
+- 🛠️ Integrated APIs for platforms like **HubSpot**, **OwnerRez**, and **Hostaway**.  
+- 🔒 Skilled in **password hashing with BCrypt** and modern authentication workflows.  
+- ⚙️ Configured servers using **Nginx** and handled SSL certificate setups (Let's Encrypt).  
+- 🚀 Embraced **Clean Architecture** in .NET projects to maintain scalability and separation of concerns.  
 
 ## Technologies Used 
-
 
 - [Web API](https://dotnet.microsoft.com/apps/aspnet/apis)
 - [Web API CORE](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0)
@@ -35,15 +41,16 @@ Never stop Learning and Coding
 - [MongoDB](https://www.mongodb.com/)
 
 
-## I’m currently learning 
-
-- Kubernates
-- AWS
-- Distributed Systems
-- Microservices
+## 🎯 Career Aspirations  
+I aim to:  
+- Work on challenging problems in fields like **big data** or **distributed systems**.  
+- Join **large-scale projects** and contribute to designing and implementing **distributed systems**.  
+- Expand my knowledge of modern frameworks (e.g., React, Vue.js).  
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-ali-b24568140/)
+- 
+ **Fun Fact**: I believe in coding clean, meaningful solutions while exploring new tools and frameworks. I'm also diving deeper into **Distributed Systems** and system design!    
 
 
