@@ -16,6 +16,13 @@ A passionate software engineer with **5+ years of experience** building scalable
 🔹 **Current Role**: Software Engineer at [SUPERHOG UK](https://www.superhog.com), specializing in RESTful APIs, microservices, containerization (Docker), and system monitoring.  
 🔹 **Career Goal**: To contribute to innovative projects in dynamic industries like **big data** and **distributed systems** while continuously learning and growing.
 
+## 🎯 Career Aspirations  
+I aim to:  
+- Work on challenging problems in fields like **big data** or **distributed systems**.  
+- Join **large-scale projects** and contribute to designing and implementing **distributed systems**.  
+- Expand my knowledge of modern frameworks (e.g., React, Vue.js).
+
+
 ## 🌟 Key Highlights 
 - 🏗️ Applied **Domain-Driven Design (DDD)** principles in projects like school systems using .NET Core.  
 - 🛠️ Integrated APIs for platforms like **HubSpot**, **OwnerRez**, and **Hostaway**.  
@@ -39,13 +46,6 @@ A passionate software engineer with **5+ years of experience** building scalable
 - [MySql](https://dev.mysql.com/doc/refman/8.0/en/)
 - [SQL-Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 - [MongoDB](https://www.mongodb.com/)
-
-
-## 🎯 Career Aspirations  
-I aim to:  
-- Work on challenging problems in fields like **big data** or **distributed systems**.  
-- Join **large-scale projects** and contribute to designing and implementing **distributed systems**.  
-- Expand my knowledge of modern frameworks (e.g., React, Vue.js).  
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
