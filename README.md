@@ -39,7 +39,8 @@ Never stop Learning and Coding
 
 - Kubernates
 - AWS
-- Machine Learning
+- Distributed Systems
+- Microservices
 
 ## How to reach me
 - Email : abdelrahmanali.mohamed@outlook.com
