@@ -24,7 +24,6 @@ I aim to:
 
 
 ## 🌟 Key Highlights 
-- 🏗️ Applied **Domain-Driven Design (DDD)** principles in projects like school systems using .NET Core.  
 - 🛠️ Integrated APIs for platforms like **HubSpot**, **OwnerRez**, and **Hostaway**.  
 - 🔒 Skilled in **password hashing with BCrypt** and modern authentication workflows.  
 - ⚙️ Configured servers using **Nginx** and handled SSL certificate setups (Let's Encrypt).  
