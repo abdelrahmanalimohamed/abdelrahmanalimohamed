@@ -13,7 +13,7 @@
 ## 🛠️ About Me  
 A passionate software engineer with **5+ years of experience** building scalable and efficient software solutions. My expertise spans a variety of technologies, frameworks, and industries. Whether it's crafting backend systems, developing full-stack solutions, or integrating complex APIs, I always aim to deliver clean, maintainable, and impactful code.  
 
-🔹 **Current Role**: Software Engineer at [SUPERHOG UK](https://www.superhog.com), specializing in RESTful APIs, microservices, containerization (Docker), and system monitoring.  
+🔹 **Current Role**: Software Engineer at [SUPERHOG UK](https://www.superhog.com), specializing in RESTful APIs, Integrations, containerization (Docker).  
 🔹 **Career Goal**: To contribute to innovative projects in dynamic industries like **big data** and **distributed systems** while continuously learning and growing.
 
 ## 🎯 Career Aspirations  
