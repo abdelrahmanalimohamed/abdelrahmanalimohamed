@@ -24,9 +24,10 @@ I aim to:
 
 
 ## 🌟 Key Highlights 
-- 🛠️ Integrated APIs for platforms like **HubSpot**, **OwnerRez**, and **Hostaway**.  
-- 🔒 Skilled in **password hashing with BCrypt** and modern authentication workflows.  
-- ⚙️ Configured servers using **Nginx** and handled SSL certificate setups (Let's Encrypt).  
+- 🛠️ Integrated APIs for platforms like **HubSpot**, **OwnerRez**, and **Hostaway**.
+- 🔄 Implemented CQRS and Mediator Patterns to streamline application workflows and enhance maintainability.
+- 💾 Leveraged Entity Framework and MariaDB for efficient data modeling and management in backend systems.
+- 📋 Developed and executed SQL migration scripts for seamless database updates and data integrity.
 - 🚀 Embraced **Clean Architecture** in .NET projects to maintain scalability and separation of concerns.  
 
 ## Technologies Used 
