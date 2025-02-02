@@ -8,7 +8,7 @@
 
 ## Summery
 **Software Engineer | Full Stack Developer | Backend Specialist**  
-🌍 Based in France | Open to remote opportunities across Europe  
+🌍 Open to remote opportunities across Europe and worldwide
 
 ## 🛠️ About Me  
 A passionate software engineer with **5+ years of experience** building scalable and efficient software solutions. My expertise spans a variety of technologies, frameworks, and industries. Whether it's crafting backend systems, developing full-stack solutions, or integrating complex APIs, I always aim to deliver clean, maintainable, and impactful code.  
